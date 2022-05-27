@@ -2,7 +2,7 @@
 	[
 		{
 			"speaker" : "homer",
-			"dialog" : "Tell me, O muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy.",
+			"dialog" : "This donut that I'm holding here is pretty delicious.",
 			"newSpeaker" : "true"
 		},
 		{
@@ -10,7 +10,7 @@
 			"dialog" : "Many cities did he visit, and many were the nations with whose manners and customs he was acquainted."
 		},
 		{	
-			"speaker" : "homer",
+			"speaker" : "neptune",
 			"dialog" : "Moreover he suffered much by sea while trying to save his own life and bring his men safely home."
 		},
 		{	
